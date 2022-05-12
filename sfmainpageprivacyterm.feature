@@ -2,7 +2,7 @@
 Feature: Statefarm privacy term 
   I will open the statefarm,click on dropdown,select the an option,
   enter the zipcode in textbox, click on the get quote button,
-  in the next page, click on the statefarm logo, change tab handling,
+  in the next page, click on the statefarm logo,
   in the new tab, click on the read more option on the privacy term pop-up
 
   Scenario: Statefarm privacy main page
